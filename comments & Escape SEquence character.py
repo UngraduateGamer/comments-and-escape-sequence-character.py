@@ -9,8 +9,8 @@ say hello
 
 print("hey this is first line\nHey this is Second Line")
 
-'''parameter of print statements: ends and sep
-      print("I am the","best","no one can beat me",sep="-",ends="")'''
+'''parameter of print statements: end and sep
+      print("I am the","best","no one can beat me",sep="-",end="")'''
 
 '''now you can print the double quotes in the double quotes strings so we can use backslash eg.
 eg. print("Hello \"Brother\" ")
